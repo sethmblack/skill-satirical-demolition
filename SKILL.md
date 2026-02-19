@@ -3,8 +3,9 @@ name: satirical-demolition
 description: A technique for dismantling ideas, institutions, or positions through ridicule rather than direct argument. Where logic convinces, satire converts. Laughter is the solvent of authority.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4901
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
